@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thuốc giảm đau",
+      "description": "Thuốc giảm đau, hạ sốt"
+    },
+    {
+      "id": 2,
+      "name": "Kháng sinh",
+      "description": "Thuốc kháng khuẩn - kháng sinh"
+    },
+    {
+      "id": 3,
+      "name": "Vitamin & Khoáng chất",
+      "description": "Thực phẩm chức năng, vitamin"
+    },
+    {
+      "id": 4,
+      "name": "Thuốc ho",
+      "description": "Thuốc điều trị ho, long đờm"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "PROD-0001",
+      "name": "Paracetamol 500mg",
+      "description": "Giảm đau, hạ sốt, viên nén 10 vỉ x 10 viên",
+      "categoryId": 1,
+      "price": 25000,
+      "quantity": 50,
+      "importDate": "02-01-2025"
+    },
+    {
+      "id": 2,
+      "code": "PROD-0002",
+      "name": "Amoxicillin 500mg",
+      "description": "Kháng sinh Amoxicillin dạng viên nang",
+      "categoryId": 2,
+      "price": 42000,
+      "quantity": 30,
+      "importDate": "09-10-2025"
+    },
+    {
+      "id": 3,
+      "code": "PROD-0003",
+      "name": "Vitamin C 500mg",
+      "description": "Bổ sung vitamin C, 60 viên",
+      "categoryId": 3,
+      "price": 150000,
+      "quantity": 20,
+      "importDate": "20-11-2025"
+    },
+    {
+      "id": 4,
+      "code": "PROD-0004",
+      "name": "Siro ho long đờm",
+      "description": "Siro ho cho trẻ em 125ml",
+      "categoryId": 4,
+      "price": 56000,
+      "quantity": 40,
+      "importDate": "02-10-2025"
+    },
+    {
+      "id": "9211",
+      "code": "PROD-0005",
+      "name": "Paracetamol",
+      "description": "hhhhhh",
+      "categoryId": 2,
+      "price": 30000,
+      "quantity": 20,
+      "importDate": "2025-11-04"
+    },
+    {
+      "id": "fd16",
+      "code": "PROD-0006",
+      "name": "Amoxicillin",
+      "description": "Là thuốc kháng sinh",
+      "categoryId": 2,
+      "price": 25000,
+      "quantity": 30,
+      "importDate": "2025-11-03T17:00:00.000Z"
+    },
+    {
+      "id": "6abd",
+      "code": "PROD-0007",
+      "name": "Hapacol",
+      "description": "hhh",
+      "categoryId": 1,
+      "price": 35000,
+      "quantity": 20,
+      "importDate": "2025-10-13T17:00:00.000Z"
+    },
+    {
+      "id": "6043",
+      "code": "PROD-0008",
+      "name": "Azithromycin",
+      "description": "aaaa",
+      "categoryId": 2,
+      "price": 30000,
+      "quantity": 10,
+      "importDate": "2025-11-03T17:00:00.000Z"
+    }
+  ]
+}
