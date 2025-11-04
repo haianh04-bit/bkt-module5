@@ -101,6 +101,16 @@
       "price": 30000,
       "quantity": 10,
       "importDate": "2025-11-03T17:00:00.000Z"
+    },
+    {
+      "id": "309f",
+      "code": "PROD-0009",
+      "name": "Azithromycin",
+      "description": "hhhh",
+      "categoryId": 4,
+      "price": 44000,
+      "quantity": 20,
+      "importDate": "2025-10-26T17:00:00.000Z"
     }
   ]
 }
